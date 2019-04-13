@@ -1,7 +1,4 @@
 # gridTestNG_first
-Projeto com Selenim Grid e TestNG
-
-<br><br>
 Primeiro uso de Selenium Grid com TestNG
 <hr>
 Houve erros no programa Eclipse com a plugin do TestNG, o qual tive que baixar manualmente.
