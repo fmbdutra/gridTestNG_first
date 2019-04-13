@@ -1,5 +1,6 @@
 # gridTestNG_first
-Primeiro uso de Selenium Grid com TestNG
+Primeiro uso de Selenium Grid com TestNG<br>
+Link base: https://www.devmedia.com.br/trabalhando-com-testes-funcionais-distribuidos-em-java/33456
 <hr>
 Houve erros no programa Eclipse com a plugin do TestNG, o qual tive que baixar manualmente.
 <br>Link Download: <br>
