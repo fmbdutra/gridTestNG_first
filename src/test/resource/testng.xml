@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite de teste" parallel="tests" thread-count="1">
+                 
+   
+    <test name="Teste Google">
+     <parameter name="pesquisa" value="verdecard" />
+     <parameter name="resultado" value="http://www.verdecard.com.br/" />
+     
+     <classes>
+       <class
+       name="testeGrid.dutra.fabiano.GoogleTest" />
+     </classes>
+   </test>
+</suite>
