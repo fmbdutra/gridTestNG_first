@@ -1,4 +1,4 @@
-package testeGrid.dutra.fabiano;
+package testeGrid.testes;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import config.dutra.fabiano.TipoDriver;
+import testeGrid.config.TipoDriver;
 
 public class GoogleTest {
 

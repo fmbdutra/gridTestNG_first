@@ -1,4 +1,4 @@
-package config.dutra.fabiano;
+package testeGrid.config;
 
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;

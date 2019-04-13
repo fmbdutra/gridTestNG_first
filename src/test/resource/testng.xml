@@ -9,7 +9,7 @@
      
      <classes>
        <class
-       name="testeGrid.dutra.fabiano.GoogleTest" />
+       name="testeGrid.testes.GoogleTest" />
      </classes>
    </test>
 </suite>

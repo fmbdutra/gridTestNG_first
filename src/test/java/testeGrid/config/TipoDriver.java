@@ -1,4 +1,4 @@
-package config.dutra.fabiano;
+package testeGrid.config;
 
 import java.net.MalformedURLException;
 import java.net.URL;
