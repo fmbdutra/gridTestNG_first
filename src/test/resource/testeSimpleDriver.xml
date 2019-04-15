@@ -3,7 +3,7 @@
 <suite name="Main Test Suite" verbose="1">
     <test name="TestNG Grid">
         <classes>
-        <class name="br.com.verdecard.homologacao.Automacao_de_Teste_Distribuida.GoogleVerde"/>
+        <class name="testeGrid.testes.SimpleDriverGoogleTest"/>
         </classes>
     </test>
 </suite>
